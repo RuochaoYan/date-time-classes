@@ -20,6 +20,7 @@ namespace SoftwareFoundations {
     static int runDateTimeTests();
     static int runIntervalTests();
     static int runTimezoneTests();
+      static int providedTests();
     static std::string dateDifferenceTest(std::string aDate1, std::string aDate2);
     static std::string adjustDateByWeeksTest(std::string aDate, int aWeeks);
     static std::string setMonthDateTest(std::string aDate, int aMonth);

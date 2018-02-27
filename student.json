@@ -1,7 +1,7 @@
 {
-  "name"  : "Your Name",
-  "pid"   : "Your StudentId",
-  "email" : "Your Email",
-  "os"    : "windows|mac|linux",
+  "name"  : "Ruochao Yan",
+  "pid"   : "A53247716",
+  "email" : "ruy007@ucsd.edu",
+  "os"    : "mac",
   "course": "ece180a"
 }
